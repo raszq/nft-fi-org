@@ -10,8 +10,7 @@ License-files:       LICENSE
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Deploy
-                     , NftMintFactory
+  exposed-modules:     NftMintFactory
                      , CustodialAssetManager
                      , Utils
                     
